@@ -1,0 +1,11 @@
+{
+    "name": "ibyeyoga/easy-auth",
+    "description": "jwt component.",
+    "authors": [
+        {
+            "name": "Yoga Li",
+            "email": "yoga@ibye.cn"
+        }
+    ],
+    "require": {}
+}
